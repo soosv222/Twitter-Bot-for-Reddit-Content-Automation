@@ -1,0 +1,5 @@
+.env
+.ipynb_checkpoints/
+bot_functions.ipynb
+posthist.json
+run_bot.bat
